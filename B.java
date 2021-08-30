@@ -22,5 +22,9 @@ public class B {
         System.out.println("MB2");
     }
 
+    void MB3(){
+        System.out.println("MB3")
+    }
+
 }
 
